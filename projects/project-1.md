@@ -13,9 +13,7 @@ labels:
 summary: I created a simple banking software that kept track of account number, name, and address of customers for ICS 212.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/212Proj1.JPG">
-</div>
+<img class="ui image" src="../images/212Proj1.JPG">
 
 In ICS 212 (Program Structure) our major project for the first half of the semester was to create a banking software that would be able to add, find, print, and delete records  to and from a database in C. This included a console based user interface where the user was prompted for the action they wanted to complete. The possible commands that could be entered were: add, print, find, delete, and quit. The user could enter any of the first letters of each command and the program would carry out that command. For example the user could enter "a" or "ad" and the add function would be called.
 
