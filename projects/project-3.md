@@ -12,7 +12,7 @@ labels:
 summary: Biggest project that I created in ICS 111 opposite of tic-tac-toe.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ITTT.JPG">
+<img class="ui image" src="../images/ITTT.JPG">
 
 Everyone studying for a computer science or other computer related degree has to take ICS 111. This class may seem like an easy free class that everyone can pass, even without any experience in computers or programming. This class is the first computer science class that I ever took in college and it started off really easy, but towards the end of the semester the assignments started to get a little harder. The most complicated program we made in ICS 111 was probably inverse tic-tac-toe. Most people know what normal tic-tac-toe is, but the first part of the program for me was looking at the rules for the inverse version. You actually want the other person to get 3 in a row, which made the win conditions of the program a little confusing to create.
 
