@@ -6,6 +6,7 @@ date: 2022-02-19
 labels:
   -Javascript
   -Programming Languages
+  
 ---
 
 Being a computer science student, I am getting pretty used to learning new programming languages every semester. When I was first getting into programming and computer science, I thought Java and Javascript were the same thing (which I now know is not the case). This class is not the very first time I have worked with Javascript, I have a few weeks of experience with it from high school. So far the programming languages I have worked with are Scratch, Python, Javascript, and HTML/CSS in high school and Java, C, and C++ in college. Back in high school I didn't really get into Javascript libraries because it was only being taught as an introduction to program theory. I don't really remember much from my time working with Javascript in high school, but I have a pretty good idea of what to make a program do to solve a problem. As long as I refresh my memory on the syntax of whatever language I am working with.
