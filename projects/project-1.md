@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/212Proj1.jpg
+image: images/212Proj1.JPG
 title: Banking Software
 permalink: projects/banking_software
 # All dates must be YYYY-MM-DD format!
