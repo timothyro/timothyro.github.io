@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/SudokuEx.JPG
 title: Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Solves a given sudoku problem through brute force much faster than any human could.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/SudokuEx.JPG">
 
 In ICS 211 we learned about Java and using the Eclipse IDE. We had an assignment later in the semester to make a sudoku solver that seemed like it would be easy in theory, but implementing it was harder than I originally thought. The program took a 2D array (for rows and columns) of either blank spaces or numbers to build a board to print in the console output. Next it would solve the sudoku problem and print the finished solution in a sudoku format in the console output. 
 
