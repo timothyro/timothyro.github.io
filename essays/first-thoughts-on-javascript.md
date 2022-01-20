@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: First Thoughts on Javascript
-date: 2022-02-19
+date: 2022-01-19
 labels:
   -Javascript
   -Programming Languages
