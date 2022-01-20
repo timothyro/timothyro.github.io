@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ITTT.JPG
+image: images/InvTTT.png
 title: Inverse Tic-Tac-Toe
 permalink: projects/ittt
 # All dates must be YYYY-MM-DD format!
