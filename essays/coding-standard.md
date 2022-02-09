@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Who Even Cares About Coding Standards?
-date: 2022-02-8
+date: 2022-02-08
 labels:
   -Coding Standard
   -Intellij IDEA
