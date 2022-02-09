@@ -1,14 +1,15 @@
 ---
 layout: essay
 type: essay
-title: How do I Know if my Question is Smart?
-date: 2022-01-27
+title: Who Even Cares About Coding Standards?
+date: 2022-02-8
 labels:
-  -Asking Questions
-  -Stack Overflow
+  -Coding Standard
+  -Intellij IDEA
+  -ESLint
 ---
 
-<h2>Who Even Cares About Coding Standards</h2>
+<h2>Do Coding Standards Matter?</h2>
 I used to be one of those people that thought as long as my code had no errors and had a desirable output, it was good enough. Recently I have changed my mind because it looks better as well as makes the code easier for other people to read. Just because I understood the code at the time I wrote it doesn't mean I would also understand it a few days later when I looked at it again. There are a lot of small things that kind of take the spotlight away from the more important coding standard benefits. Just looking nicer is a benefit, but it doesn't really matter if results are all you care about. By following the same coding style as other people working with the same language, you can see what they write and know what they are trying to do. Coding standards make code easier to read for everyone, even the person that wrote it. You can even learn things from 
 
 <h2>First Impressions on Intellij and ESLint</h2>
