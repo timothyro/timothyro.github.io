@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Are UI Frameworks even worth it?
+title: Are UI Frameworks Even Worth it?
 date: 2022-02-24
 labels:
   -HTML
