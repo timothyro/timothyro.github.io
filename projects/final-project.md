@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/banking.jpg
+image: images/black-odr[1].png
 title: Over Da Rainbow
 permalink: projects/final-project
 date: 2022-05-11
