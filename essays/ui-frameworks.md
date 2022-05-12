@@ -7,6 +7,7 @@ labels:
   -HTML
   -Semantic-UI
   -UI Frameworks
+draft: true
 ---
 
 <h2>Initial Time Investment</h2>
