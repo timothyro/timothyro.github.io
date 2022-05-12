@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Are UI Frameworks Even Worth it?
+title: Software Engineering Topics that I Found Useful
 date: 2022-05-10
 labels:
   -Software Engineering
