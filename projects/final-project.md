@@ -19,4 +19,9 @@ The Over Da Rainbow web application is a place for UH students and faculty to fi
 
 ![github](https://user-images.githubusercontent.com/97726557/167963755-7cd42dbd-e967-4d8b-bda4-b81855f1eeba.png)
 <h2>Contributions</h2>
+We worked on this project in 3 iterations, that we called milestones, over about a month to end up with out end product. For the first milestone my contributions were creating the footer and the template for the 5 pages (beaches, hikes, views, spots, and volunteer) that list locations.
+<h4>Footer</h4>
+![footer](https://user-images.githubusercontent.com/97726557/167967932-87626e43-219d-4664-ade7-7c2a61b54362.png)
 
+<h4>List Page Template Examples</h4>
+![beachpage](https://user-images.githubusercontent.com/97726557/167967793-a62d908e-8498-4661-ae48-4b8e101954b0.png)
