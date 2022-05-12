@@ -44,6 +44,8 @@ For the third and final milestone my contributions were to give admin users an o
 ![events](https://user-images.githubusercontent.com/97726557/167373903-a2daa6d3-89aa-4edb-b6f3-5e1f1fd767fb.png)
 
 <h2>Learning Experience</h2>
-As this was my first group computer science project in college, I had a lot to learn about working with other people to finish a relatively large project. Everyone has different schedules, different things that they are good at, different work ethics, and many other variables that have to be taken into account. Sometimes it felt like we were meeting too much and other times it felt like we weren't communicating enough. At the end of the project we got everything done that we had planned which was a success to me.
+As this was my first group computer science project in college, I had a lot to learn about working with other people to finish a relatively large project. Everyone has different schedules, different things that they are good at, different work ethics, and many other variables that have to be taken into account. Sometimes it felt like we were meeting too much and other times it felt like we weren't communicating enough. As the weeks went on, we got used to meeting about twice a week in class and once or twice a week outside of class to make sure each member was keeping up with their work. Any time someone got stuck on something, they could ask in the group discord we were using and the other members would try to help solve the problem with up to 4 people thinking instead of just 1. At the end of the project we got everything done that we had planned which was a success to me.
 
+<h2>GitHub Pages</h2>
+Organization page can be found <a href=over-da-rainbow.github.io>here</a>
 Source code can be found <a href=https://github.com/over-da-rainbow/over-da-rainbow>here</a>
