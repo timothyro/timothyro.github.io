@@ -13,4 +13,10 @@ labels:
 summary: Final project for ICS 314 "Over Da Rainbow" a web application to find spots around the island for University of Hawaii community members.
 ---
 
-![odr](https://user-images.githubusercontent.com/97726557/167959916-cebcde66-b895-41b4-b71c-270a62c59eba.png)
+![landing](https://user-images.githubusercontent.com/97726557/167963860-47b11123-994c-4eb8-832e-1b722575978e.png)
+<h2>Overview</h2>
+The Over Da Rainbow web application is a place for UH students and faculty to find locations around the island on and off of campus. The user can also create their own account with their name, bio, and social media as well as post messages to the message board and plan events at certain locations. The location pages are split into 5 sections: beaches, hikes, views, campus spots, and volunteer opportunities and the locations themselves were chosen to be appealing to college students.
+
+![github](https://user-images.githubusercontent.com/97726557/167963755-7cd42dbd-e967-4d8b-bda4-b81855f1eeba.png)
+<h2>Contributions</h2>
+
