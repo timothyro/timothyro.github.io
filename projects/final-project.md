@@ -24,4 +24,15 @@ We worked on this project in 3 iterations, that we called milestones, over about
 ![footer](https://user-images.githubusercontent.com/97726557/167967932-87626e43-219d-4664-ade7-7c2a61b54362.png)
 
 <h4>List Page Template Examples</h4>
-![beachpage](https://user-images.githubusercontent.com/97726557/167967793-a62d908e-8498-4661-ae48-4b8e101954b0.png)
+![beachpage](https://user-images.githubusercontent.com/97726557/167968075-f918062b-c65f-41fd-acc2-5ea6274f0930.png)
+![hikepage](https://user-images.githubusercontent.com/97726557/167968117-f14bf249-c528-47f6-a8d3-4c4894291774.png)
+
+For the second milestone my contributions were creating a page for each location after clicking on a card, create a bulletin board page, and create an option for admin users to add a new location.
+<h4>Location Page Example</h4>
+![locationpage](https://user-images.githubusercontent.com/97726557/167968587-a587c326-4e1e-456b-8cd7-5911c328ed70.png)
+<h4>Bulletin Board Page</h4>
+![bulletinpage](https://user-images.githubusercontent.com/97726557/167968646-8967e319-6445-4bfb-a090-b9b7beea09bc.png)
+<h4>Add Location Page</h4>
+![addLocation-example](https://user-images.githubusercontent.com/97726557/165465990-e2411a7f-64ec-4a6e-8b55-05f33f53b55c.JPG)
+
+
