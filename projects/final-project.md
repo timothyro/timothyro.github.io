@@ -27,7 +27,7 @@ We worked on this project in 3 iterations, that we called milestones, over about
 ![beachpage](https://user-images.githubusercontent.com/97726557/167968075-f918062b-c65f-41fd-acc2-5ea6274f0930.png)
 ![hikepage](https://user-images.githubusercontent.com/97726557/167968117-f14bf249-c528-47f6-a8d3-4c4894291774.png)
 
-
+<br/>
 For the second milestone my contributions were creating a page for each location after clicking on a card, create a bulletin board page, and create an option for admin users to add a new location.
 <h4>Location Page Example</h4>
 ![locationpage](https://user-images.githubusercontent.com/97726557/167968587-a587c326-4e1e-456b-8cd7-5911c328ed70.png)
@@ -36,7 +36,7 @@ For the second milestone my contributions were creating a page for each location
 <h4>Add Location Page</h4>
 ![addLocation-example](https://user-images.githubusercontent.com/97726557/165465990-e2411a7f-64ec-4a6e-8b55-05f33f53b55c.JPG)
 
-
+<br/>
 For the third and final milestone my contributions were to give admin users an option to edit and delete each location from its' page and create a new section to the bulletin board to allow users to plan events for others to go to.
 <h4>Edit/Delete Location</h4>
 ![edit-delete](https://user-images.githubusercontent.com/97726557/167368247-7ebbf700-ab65-4f6c-b739-f854c7b0d504.png)
