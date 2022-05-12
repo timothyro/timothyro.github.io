@@ -48,4 +48,4 @@ As this was my first group computer science project in college, I had a lot to l
 
 <h2>GitHub Pages</h2>
 Organization page can be found <a href="https://over-da-rainbow.github.io/">here</a>
-Source code can be found <a href="https://github.com/over-da-rainbow/over-da-rainbow">here</a>
+and Source code can be found <a href="https://github.com/over-da-rainbow/over-da-rainbow">here</a>
